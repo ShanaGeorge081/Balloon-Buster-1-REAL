@@ -86,7 +86,7 @@ function draw() {
   arrow.velocityX = -4;
   arrow.lifetime = 100;
   arrow.scale = 0.3;
- arrowGroup.add(arrow)
+
 }
 
 
